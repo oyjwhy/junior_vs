@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/12/28 21:31:02。
+     1>项目“D:\vs_code\Yacc_test\Yacc_test\Yacc_test.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\visual stdio13\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs_code\Yacc_test\Debug\Yacc_test.exe" /INCREMENTAL /NOLOGO yld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCD.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs_code\Yacc_test\Debug\Yacc_test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs_code\Yacc_test\Debug\Yacc_test.lib" /MACHINE:X86 Debug\PaserTree.obj
+         Debug\symbol.obj
+         Debug\_lexer.obj
+         Debug\_parser.obj
+         Yacc_test.vcxproj -> D:\vs_code\Yacc_test\Debug\Yacc_test.exe
+     1>已完成生成项目“D:\vs_code\Yacc_test\Yacc_test\Yacc_test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.93

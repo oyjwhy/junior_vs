@@ -1,0 +1,6 @@
+D:\vs_code\hello_world\hello_world\bin\Debug\hello_world.exe.config
+D:\vs_code\hello_world\hello_world\bin\Debug\hello_world.exe
+D:\vs_code\hello_world\hello_world\bin\Debug\hello_world.pdb
+D:\vs_code\hello_world\hello_world\obj\Debug\hello_world.csprojResolveAssemblyReference.cache
+D:\vs_code\hello_world\hello_world\obj\Debug\hello_world.exe
+D:\vs_code\hello_world\hello_world\obj\Debug\hello_world.pdb

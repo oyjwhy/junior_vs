@@ -1,0 +1,9 @@
+D:\vs_code\16_example_1\16_example_1\bin\Debug\16_example_1.exe.config
+D:\vs_code\16_example_1\16_example_1\bin\Debug\16_example_1.exe
+D:\vs_code\16_example_1\16_example_1\bin\Debug\16_example_1.pdb
+D:\vs_code\16_example_1\16_example_1\obj\Debug\16_example_1.csprojResolveAssemblyReference.cache
+D:\vs_code\16_example_1\16_example_1\obj\Debug\_16_example_1.Form1.resources
+D:\vs_code\16_example_1\16_example_1\obj\Debug\_16_example_1.Properties.Resources.resources
+D:\vs_code\16_example_1\16_example_1\obj\Debug\16_example_1.csproj.GenerateResource.Cache
+D:\vs_code\16_example_1\16_example_1\obj\Debug\16_example_1.exe
+D:\vs_code\16_example_1\16_example_1\obj\Debug\16_example_1.pdb
