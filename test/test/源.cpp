@@ -5,9 +5,15 @@ using namespace std;
 
 int main()
 {
-	int a = 10,b=9;
-	int c = a && b;
-	int d = a;
-	cout << c;
+	//int a[10][10];
+	int**a=new int *[10];
+	for (int i = 0; i < 10; i++)
+	{
+		a[i] = new int[i];
+
+	}
+
+
+
 	system("pause");
 }
